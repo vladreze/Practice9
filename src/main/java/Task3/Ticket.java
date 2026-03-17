@@ -1,7 +1,6 @@
 package Task3;
 
 import java.time.LocalDate;
-import java.time.LocalTime;
 import java.util.Comparator;
 
 public class Ticket {
